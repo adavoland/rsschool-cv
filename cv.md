@@ -2,3 +2,6 @@
 ### My contact information 
 + **Number:** 
 + **Telegram:** 
++ **Email:**
+### Education  
+
