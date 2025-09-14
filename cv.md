@@ -14,6 +14,7 @@ Result-orientated and responsible person with a desire to work in IT sphere. As 
 ### Skills 
 * Html  
 * Css 
+* Git
 
 ### Code example 
 ``` 
@@ -32,7 +33,10 @@ function multiply(a, b) {
 Westminster International University in Tashkent (2024-2028)
 
 
-### English Language 
+### Languages  
 
-IELTS - 7.0 
+English - C1  
+Kazakh - B1  
+Uzbek -  B1  
+Russian - C1
 
