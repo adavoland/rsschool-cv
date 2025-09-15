@@ -4,7 +4,7 @@
 + **Telegram:** @dorcaaas
 + **Email:** akadirbekova@students.wiut.uz 
 + **Discord:** cute_tiger_75624 
-+ **Github:** adavoland 
++ **Github:** [adavoland](https://github.com/adavoland)  
 
 
 ### About me 
