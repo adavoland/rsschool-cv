@@ -27,7 +27,7 @@ function multiply(a, b) {
 
 ### Experience 
 * Created game in Unity via Unity visual scripting as my first University assessment  
-* Created static website as my second University assesmnet 
+* Created static website as my second University assessment 
 
 ### Education 
 Westminster International University in Tashkent (2024-2028)
